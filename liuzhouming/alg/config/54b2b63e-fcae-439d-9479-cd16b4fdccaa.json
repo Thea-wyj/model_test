@@ -1,0 +1,1 @@
+[{"method_name":"LinfPGD（无穷范数）","epsilon":0.01,"rel_stepsize":0.03333333333333333,"random_start":"True"}, {"method_name":"JSMA（0范数）","epsilon":450}, {"method_name":"LInfFMNAttack（无穷范数）","epsilon":0.01,"steps":100,"max_stepsize":1,"gamma":0.05,"binary_search_steps":10}]

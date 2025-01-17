@@ -1,0 +1,24 @@
+[
+  {
+    "method_name":"IntegratedGradients",
+    "n_steps": 200
+  },
+  {
+    "method_name":"Occlusion",
+    "strides": "(2,40,40)",
+    "sliding_window_shapes": "(3, 40, 40)",
+    "baselines": 2
+  },
+  {
+   "method_name": "GuidedGradCam"
+  }, 
+  {
+   "method_name": "Lime"
+  },
+  {
+   "method_name": "GradientShap",
+   "n_samples": 60,
+   "stdevs": 0.0002
+   }
+  
+]

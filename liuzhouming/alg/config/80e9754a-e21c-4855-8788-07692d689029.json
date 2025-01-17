@@ -1,0 +1,1 @@
+[{"method_name":"random_rotate","degree":30}, {"method_name":"random_cut","h":20,"w":20}, {"method_name":"rain_add","value":100,"length":5,"angle":-30,"w":3}, {"method_name":"gauss_noise","mean":0,"sigma":10}, {"method_name":"possion_noise"}, {"method_name":"speckle_noise"}]

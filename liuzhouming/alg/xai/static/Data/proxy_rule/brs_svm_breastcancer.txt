@@ -1,0 +1,6 @@
+set
+('worst radius <= 18.225','worst compactness <= 0.367','mean texture <= 18.635'),1.000
+('worst area <= 696.050','compactness error <= 0.008 or > 0.019','worst concave points <= 0.176'),1.000
+('worst area > 696.050','696.050 < worst area <= 884.550','fractal dimension error <= 0.003'),1.000
+('worst perimeter <= 101.700','worst concavity <= 0.366'),1.000
+0

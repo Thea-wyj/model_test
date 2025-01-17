@@ -1,0 +1,16 @@
+[{
+"method_name":"L2FastGradientAttack",
+"epsilon":0.01,
+"random_start":"False"
+}, {
+"method_name":"LinfFastGradientAttack",
+"epsilon":0.01,
+"random_start":"False"
+}, {
+"method_name":"LinfPGD",
+"epsilon":0.01,
+"rel_stepsize":0.03333333333333333,
+ "abs_stepsize":"None",
+"steps":40,
+"random_start":"True"
+}]

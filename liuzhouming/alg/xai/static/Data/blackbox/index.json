@@ -1,0 +1,1 @@
+{"audit":{"svm":"svm_audit.pkl"},"breastcancer":{"randomforest":"randomforest_breastcancer.pkl","svm":"svm_breastcancer.pkl"},"rice":{"svm":"svm_rice.pkl"}}

@@ -1,0 +1,6 @@
+set
+('mean concavity <= 0.069','worst radius <= 18.225','worst area <= 884.550 or > 1210.000'),1.000
+('mean concavity > 0.069','0.027 < mean concave points <= 0.051','worst radius <= 16.795 or > 18.225'),1.000
+('worst concave points <= 0.110','worst radius <= 18.225','worst texture <= 23.350'),1.000
+('worst perimeter <= 101.700'),1.000
+0

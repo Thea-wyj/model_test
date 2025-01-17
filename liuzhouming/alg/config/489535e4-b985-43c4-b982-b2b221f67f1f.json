@@ -1,0 +1,23 @@
+[{
+"method_name":"L2FastGradientAttack",
+"epsilon":0.05,
+"random_start":"False"
+}, {
+"method_name":"LinfFastGradientAttack",
+"epsilon":0.05,
+"random_start":"False"
+}, {
+"method_name":"L2BasicIterativeAttack",
+"epsilon":0.05,
+"rel_stepsize":0.001,
+"abs_stepsize":"None",
+"steps":50,
+"random_start":"False"
+}, {
+"method_name":"LinfBasicIterativeAttack",
+"epsilon":0.05,
+"rel_stepsize":0.001,
+"abs_stepsize":"None",
+"steps":50,
+"random_start":"False"
+}]

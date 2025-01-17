@@ -1,0 +1,1 @@
+{"attack": [{"methodName": "CW", "examplesNums": 17, "WER": 0.05815740930518549}, {"methodName": "FGSM", "WER": 0.0}]}

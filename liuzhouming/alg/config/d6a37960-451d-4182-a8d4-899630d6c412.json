@@ -1,0 +1,6 @@
+[{
+"method_name":"Occlusion",
+    "strides": "(3,30,30)",
+    "sliding_window_shapes": "(3, 40, 40)",
+    "baselines": 0
+ }]

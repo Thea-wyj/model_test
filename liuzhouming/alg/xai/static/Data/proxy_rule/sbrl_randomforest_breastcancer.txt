@@ -1,0 +1,7 @@
+list
+('worst perimeter <= 101.700'),0.996
+('14.910 < worst radius <= 16.795','worst smoothness <= 0.136','529.800 < mean area <= 696.250'),0.929
+('101.700 < worst perimeter <= 106.000'),0.625
+('529.800 < mean area <= 696.250','mean symmetry <= 0.172'),0.500
+('perimeter error <= 1.751','worst fractal dimension <= 0.093'),0.500
+0.007

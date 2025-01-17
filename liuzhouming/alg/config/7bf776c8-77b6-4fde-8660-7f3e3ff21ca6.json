@@ -1,0 +1,7 @@
+[{
+"method_name":"IntegratedGradients","n_steps": 225
+}, {
+"method_name": "Lime","n_samples": 1000
+ },  {
+"method_name": "GuidedGradCam"
+}]

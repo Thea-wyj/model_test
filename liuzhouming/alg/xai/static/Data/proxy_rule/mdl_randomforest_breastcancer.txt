@@ -1,0 +1,4 @@
+list
+('worst radius >= 16.765','worst texture >= 19.675'),0.000000
+('mean concave points >= 0.0558','worst perimeter >= 97.18','worst concavity >= 0.2244'),0.000000 
+0.900000

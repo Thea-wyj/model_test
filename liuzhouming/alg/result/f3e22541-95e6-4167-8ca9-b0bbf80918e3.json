@@ -1,0 +1,1 @@
+{"attacks": [{"methodName": "FD", "attack_success_rate": 0.25, "examplesNums": 40}, {"methodName": "HotFlip", "attack_success_rate": 0.5, "examplesNums": 40}]}
